@@ -161,7 +161,7 @@ const Homepage = () => {
       {/* Divider Section */}
       <div className="absolute w-full lg:w-[612px] h-[4px] top-[800px] left-0 lg:left-[976px] bg-[linear-gradient(180deg,_rgba(40,_40,_40,_0.1)_0%,_rgba(248,_248,_248,_0.1)_100%),_linear-gradient(0deg,_rgba(255,_255,_255,_0.05),_rgba(255,_255,_255,_0.05))]"></div>
 
-      <div className="flex flex-col justify-between md-hidden w-[24px] h-[159.69px] top-[473px] left-[934px] absolute lg:flex">
+      <div className="flex flex-col justify-between md:hidden w-[24px] h-[159.69px] top-[473px] left-[934px] absolute lg:flex">
         <img src={myimg} alt="Description" width={24} height={24} className="rounded-[50%]" />
         <img src={myimg2} width={24} height={30.69} />
       </div>
