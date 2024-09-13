@@ -93,7 +93,7 @@ const Homepage = () => {
       </div>
 
      {/* Sidebar */}
-      <div className="flex flex-col justify-between w-[24px] h-[159.69px] top-[116px] md:hidden left-[934px] absolute">
+      <div className="flex flex-col justify-between w-[24px] h-[159.69px] top-[116px] md:hidden left-[934px] absolute lg:flex">
         <img src={myimg} alt="Description" className="rounded-[50%] " />
         <img src={myimg2} width={20} height={20} />
       </div>
